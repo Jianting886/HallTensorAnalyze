@@ -1,6 +1,6 @@
 # HallTensorAnalyze
-Analyze the spin and charge conductivity tensor of your material under the framwork of magnetic point group and spin group
 
+This is a Python code to analyze the spin and charge conductivity tensor of your material under the framwork of magnetic point group (thanks to the FindSym website) and spin group (thanks to the FindSpinGroup website of Qihang Liu's group of Southern University of Science and Technology)
   
 | Author | Jianting Dong |
 | ------ | ------------- |
